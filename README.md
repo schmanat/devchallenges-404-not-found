@@ -8,14 +8,9 @@ This is the result of the challenge - 404 Not Found. I have converted all px siz
 -   CSS
 -   HTML
 
-## Sizes
-
-540px - 33.75rem
-590px - 36.875rem
-
 ## Demo
 
-You can view the result on [dev.schman.at/404-not-found](http://dev.schman.at/404-not-found)
+You can view the result on [devchallenges-404-not-found.vercel.app/](https://devchallenges-404-not-found.vercel.app/)
 
 ## Resources
 
