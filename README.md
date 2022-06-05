@@ -14,7 +14,7 @@ You can view the result on [devchallenges-404-not-found.vercel.app/](https://dev
 
 ## Screenshot
 
-![404 not found](./screenshot.png)
+![404 not found](./screenshot.jpg)
 
 ## Resources
 
